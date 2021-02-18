@@ -1,0 +1,11 @@
+C:\Users\ivan\source\repos\ProyectoInterfaz\ProyectoFormulario\bin\Debug\ProyectoFormulario.exe.config
+C:\Users\ivan\source\repos\ProyectoInterfaz\ProyectoFormulario\bin\Debug\ProyectoFormulario.exe
+C:\Users\ivan\source\repos\ProyectoInterfaz\ProyectoFormulario\bin\Debug\ProyectoFormulario.pdb
+C:\Users\ivan\source\repos\ProyectoInterfaz\ProyectoFormulario\obj\Debug\ProyectoFormulario.csprojAssemblyReference.cache
+C:\Users\ivan\source\repos\ProyectoInterfaz\ProyectoFormulario\obj\Debug\ProyectoFormulario.FormLogin.resources
+C:\Users\ivan\source\repos\ProyectoInterfaz\ProyectoFormulario\obj\Debug\ProyectoFormulario.Properties.Resources.resources
+C:\Users\ivan\source\repos\ProyectoInterfaz\ProyectoFormulario\obj\Debug\ProyectoFormulario.csproj.GenerateResource.cache
+C:\Users\ivan\source\repos\ProyectoInterfaz\ProyectoFormulario\obj\Debug\ProyectoFormulario.csproj.CoreCompileInputs.cache
+C:\Users\ivan\source\repos\ProyectoInterfaz\ProyectoFormulario\obj\Debug\ProyectoFormulario.exe
+C:\Users\ivan\source\repos\ProyectoInterfaz\ProyectoFormulario\obj\Debug\ProyectoFormulario.pdb
+C:\Users\ivan\source\repos\ProyectoInterfaz\ProyectoFormulario\obj\Debug\ProyectoFormulario.Registro.resources
